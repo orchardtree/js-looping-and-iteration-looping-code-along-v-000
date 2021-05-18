@@ -4,6 +4,6 @@ const recipients = ["Lisa", "Kaitlin", "Jan"]
 function writeCards(recipients) {
 
 
-  
-} 
+
+}
 writeCards(recipients);
