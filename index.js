@@ -1,5 +1,5 @@
 // Code your solutions in this file
-// const cards = []
+const cards = []
 
 function writeCards(recipients, event) {
   for (let i = 0; i < recipients.length; i++) {
