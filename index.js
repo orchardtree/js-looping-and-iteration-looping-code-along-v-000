@@ -7,4 +7,9 @@ function writeCards(recipients, event) {
 return cards;
 }
 
-const i = x
+function countDown(???) {
+  for (let i = ???) i < recipients.length; i--) {
+    console.log(``);
+  }
+  
+}
