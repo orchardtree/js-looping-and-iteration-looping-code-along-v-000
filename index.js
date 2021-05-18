@@ -7,9 +7,9 @@ function writeCards(recipients, event) {
 return cards;
 }
 
-function countDown(???) {
-  for (let i = ???) i < recipients.length; i--) {
-    console.log(``);
+function countDown(int) {
+  for (let i = int) i < recipients.length; i--) {
+    console.log(`${int}`);
   }
 
 }
