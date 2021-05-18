@@ -9,3 +9,9 @@ return cards;
 }
 
 writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
+
+
+
+console.log
+
+countDown(i);
