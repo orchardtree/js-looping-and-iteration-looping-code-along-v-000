@@ -10,7 +10,7 @@ return cards;
 
 writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
 
-
+let i = 0
 
 console.log
 
