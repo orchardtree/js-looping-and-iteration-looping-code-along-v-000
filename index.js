@@ -8,10 +8,5 @@ function writeCards(recipients, event) {
 return cards;
 }
 
-writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
+//writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
 
-let i = 0
-
-console.log
-
-countDown(i);
