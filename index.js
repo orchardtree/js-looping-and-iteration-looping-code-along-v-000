@@ -6,7 +6,6 @@ function writeCards(recipients) {
     console.log(`Thank you, ${recipients[i]}, for the wonderful surprise gift!`);
   }
 
-  return recipients;
 }
 
 writeCards(recipients);
