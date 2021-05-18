@@ -9,4 +9,3 @@ return cards;
 }
 
 //writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
-
