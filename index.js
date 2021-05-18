@@ -2,8 +2,9 @@
 const recipients = ["Lisa", "Kaitlin", "Jan"]
 
 function writeCards(recipients) {
-  for (let i = 0; i < recipients.length; i++)
-
+  for (let i = 0; i < recipients.length; i++) {
+    
+  }
 
 }
 writeCards(recipients);
