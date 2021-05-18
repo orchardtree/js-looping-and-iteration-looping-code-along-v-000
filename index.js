@@ -8,7 +8,7 @@ return cards;
 }
 
 function countDown(int) {
-  for (let i = int; i < recipients.length; i--) {
+  for (let i = int; i = 1; i--) {
     console.log(`${int}`);
   }
 
