@@ -6,3 +6,5 @@ function writeCards(recipients, event) {
   }
 return cards;
 }
+
+const i = x
